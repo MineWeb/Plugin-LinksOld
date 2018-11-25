@@ -1,0 +1,8 @@
+{
+  "LINKS__TITLE": "Titre",
+  "LINKS__SUBTITLE": "Sous-Titre / Description",
+  "LINKS__LINK": "Lien",
+  "LINKS__DISCORD_ID": "Identifiant du serveur discord",
+  "LINKS__ADD": "Ajouter un site",
+  "LINKS__MODIFY": "Modifier un site"
+}

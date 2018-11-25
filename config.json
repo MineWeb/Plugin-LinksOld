@@ -1,0 +1,27 @@
+{
+  "name":"Links",
+  "admin_menus": {
+    "GLOBAL__ADMIN_PLUGINS": {
+      "Links": {
+        "icon": "link",
+        "route": "/admin/links"
+      }
+    }
+  },
+   "navbar_routes":{
+      "Links":"/links"
+   },
+  "author":"nivcoo",
+  "version":"1.0.0",
+  "useEvents":false,
+  "permissions" : {
+    "available" : [],
+    "default" : {
+      "0" : [],
+      "2" : []
+    }
+  },
+  "requirements" : {
+    "CMS" : "^1.6.0"
+  }
+}
