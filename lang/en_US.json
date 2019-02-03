@@ -1,8 +1,9 @@
 {
-  "LINKS__TITLE": "Title",
-  "LINKS__SUBTITLE": "Sub-Title / Description",
-  "LINKS__LINK": "Link",
-  "LINKS__DISCORD_ID": "Id of the discord server",
-  "LINKS__ADD": "Add a site",
-  "LINKS__MODIFY": "Edit a site"
+    "LINKS__TITLE": "Title",
+    "LINKS__SUBTITLE": "Sub-Title / Description",
+    "LINKS__LINK": "Link",
+    "LINKS__DISCORD_ID": "Identifier of the discord server (You must install this bot on the discord: https://add.widgetbot.io/cl2) <br> <small style = 'color: red'> Warning widgets must be activated on the discord server < / small>",
+    "LINKS__DISCORD_CHANNEL": "Default channel identifier displayed (right click on the channel)",
+    "LINKS__ADD": "Add a site",
+    "LINKS__MODIFY": "Edit a site"
 }

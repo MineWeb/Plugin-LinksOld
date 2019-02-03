@@ -19,5 +19,6 @@ class LinksAppSchema extends CakeSchema
 		'subtitle' => ['type' => 'string', 'null' => false, 'default' => null, 'length' => 255, 'unsigned' => false],
 		'link' => ['type' => 'string', 'null' => true, 'default' => null, 'length' => 255, 'unsigned' => false],
 		'discord_id' => ['type' => 'string', 'null' => true, 'default' => null, 'length' => 255, 'unsigned' => false],
+        'discord_channel' => ['type' => 'string', 'null' => true, 'default' => null, 'length' => 255, 'unsigned' => false],
 	];
 }
